@@ -8,10 +8,10 @@
   <name>socket Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <build>
-    <finalName>socket</finalName>
+    <finalName>spring-web-sample</finalName>
   </build>
   <properties>
-  	<springversion>4.3.2.RELEASE</springversion>
+  	<springversion>4.3.18.RELEASE</springversion>
   </properties>
   <dependencies>
   	<dependency>
